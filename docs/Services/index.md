@@ -8,7 +8,7 @@ You have found this site while it is still under construction.
 
 We offer the following services:
 
-- [POC Services](poc/index.md)
+- [POC Services](dev/poc.md)
 - Cloud Deployment consulting.
 - Continuous Integration and Continuous Deployment consulting.
 - Software bottlenecks analysis and mitigation.

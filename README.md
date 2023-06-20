@@ -24,18 +24,27 @@ $ yarn build
 
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
-### Deployment
+## Deployment with Cloudflare
 
-Using SSH:
+### Create the "pages" project
 
+Using Wrangler to deploy to cloudflare.
+
+```sh
+% wrangler pages project create someprojectname
+✔ Enter the production branch name: … main
+✨ Successfully created the 'someprojectname' project. It will be available at https://someprojectname.pages.dev/ once you create your first deployment.
+To deploy a folder of assets, run 'wrangler pages deploy [directory]'.:
 ```
-$ USE_SSH=true yarn deploy
-```
 
-Not using SSH:
+### Publish
 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+```sh
+% wrangler pages deploy build/
+🌎  Uploading... (40/40)
+
+✨ Success! Uploaded 40 files (2.56 sec)
+
+✨ Deployment complete! Take a peek over at https://dc249725.generalconsulting.pages.dev
+```

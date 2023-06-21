@@ -1,5 +1,6 @@
 ---
-sidebar_position: 1
+sidebar_position: 4
+title: Introduction
 ---
 
 # Technology Transfer
@@ -21,96 +22,95 @@ The alternative to vendors and technology transfer is building expertise up in-h
 Generally, if there are open source solutions to your problems, we can evaluate them and help you understand how to leverage them.  We are very comfortable in new problem domains, but have extensive experience in the following areas:
 
 - Software Deployment:
-    - Linux
-    - Kubernetes
-    - Docker / containderd
-    - Helm / Kustomize
-    - Ansible
-    - Terraform
-    - AWS
-    - GCP
-    - Azure
-    - Flux
+  - Linux
+  - Kubernetes
+  - Docker / containderd
+  - Helm / Kustomize
+  - Ansible
+  - Terraform
+  - AWS
+  - GCP
+  - Azure
+  - Flux
 
 - Front end development:
-    - React
-    - Next.js
-    - Docusaurus
+  - React
+  - Next.js
+  - Docusaurus
 
 - Back end development:
-    - Rust
-    - Go
-    - Python
-    - TypeScript
-    - Node.js
+  - Rust
+  - Go
+  - Python
+  - TypeScript
+  - Node.js
 
 - Databases:
-    - PostgreSQL
-    - MySQL
-    - Redis
-    - TikV
-    - Vitess
-    - CockroachDB
-    - Aurora
+  - PostgreSQL
+  - MySQL
+  - Redis
+  - TikV
+  - Vitess
+  - CockroachDB
+  - Aurora
 
 - Ingress/Proxy:
-    - Traefik
-    - Nginx
-    - Apache
-    - Cilium
-    - Gunicorn
+  - Traefik
+  - Nginx
+  - Apache
+  - Cilium
+  - Gunicorn
 
 - Messaging:
-    - RabbitMQ
-    - Redis
-    - Kafka
-    - SNS/SQS
+  - RabbitMQ
+  - Redis
+  - Kafka
+  - SNS/SQS
 
 - Edge Hosting:
-    - Cloudflare
-    - Netlify
-    - AWS Cloudfront
+  - Cloudflare
+  - Netlify
+  - AWS Cloudfront
 
 - Monitoring and Alerting:
-    - OpenTelemetry
-    - Prometheus
-    - Grafana
-    - AlertManager
-    - PagerDuty
-    - New Relic
-    - Datadog
+  - OpenTelemetry
+  - Prometheus
+  - Grafana
+  - AlertManager
+  - PagerDuty
+  - New Relic
+  - Datadog
 
 - Video Streaming:
-    - Low latency
-    - Hardware acceleration
-    - OBS
-    - FFMPEG
-    - GStreamer
-    - HLS
-    - Janus
-    - DASH
-    - RTMP
-    - RTSP
-    - WebRTC
-    - WebSockets
+  - Low latency
+  - Hardware acceleration
+  - OBS
+  - FFMPEG
+  - GStreamer
+  - HLS
+  - Janus
+  - DASH
+  - RTMP
+  - RTSP
+  - WebRTC
+  - WebSockets
 
 - Security:
-    - Private comms
-    - Crypto hot wallets
-    - PGP
-    - GPG
-    - SSH
-    - TLS
-    - HTTPS
-    - Certbot
-    - Secrets management
-
+  - Private comms
+  - Crypto hot wallets
+  - PGP
+  - GPG
+  - SSH
+  - TLS
+  - HTTPS
+  - Certbot
+  - Secrets management
 
 - CI/CD
-    - GitHub Actions
-    - GitLab CI
-    - Jenkins
-    - ArgoCD
-    - FluxCD
-    - Tekton
-    - Spinnaker
+  - GitHub Actions
+  - GitLab CI
+  - Jenkins
+  - ArgoCD
+  - FluxCD
+  - Tekton
+  - Spinnaker

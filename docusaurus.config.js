@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'General Consulitng',
+  title: 'General Consulting',
   tagline: 'First class solutions, derived from first principles',
   favicon: 'img/favicon.ico',
 
